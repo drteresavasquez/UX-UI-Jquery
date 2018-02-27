@@ -1,4 +1,4 @@
-# UX-UI-Jquery
+# UX-UI-JQuery
 
 Creating attributes in the HTML and accessing them using JQuery.
 
